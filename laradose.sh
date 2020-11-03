@@ -1,7 +1,7 @@
 #!/bin/bash
 
 DOWNLOADER=
-GITHUB_URL=https://github.com/AdrienPoupa/laradose
+GITHUB_URL=https://github.com/markushartman/laradose
 VERSION=1.0.1
 
 install() {
