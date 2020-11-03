@@ -39,7 +39,7 @@ Additional containers can be enabled:
 5. [Available Parameters](#5-available-parameters)
 6. [Q&A](#6-qa)
 
-Found a bug, have a suggestion? Please [open an issue](https://github.com/AdrienPoupa/laradose/issues) so we can discuss it!
+Found a bug, have a suggestion? Please [open an issue](https://github.com/markushartman/laradose/issues) so we can discuss it!
 
 ## 1. Requirements
 
@@ -60,7 +60,7 @@ and help you configure Laradose. This is the preferred method. If you are runnin
 project so you can revert to the previous state if needed. To use it, `cd` into your project's folder and run:
 
 ```
-$ wget https://raw.githubusercontent.com/AdrienPoupa/laradose/master/laradose.sh && chmod +x laradose.sh
+$ wget https://raw.githubusercontent.com/markushartman/laradose/master/laradose.sh && chmod +x laradose.sh
 $ ./laradose.sh --install
 ```
 
